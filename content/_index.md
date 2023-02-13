@@ -25,7 +25,7 @@ sections:
         - title: PhD in Naval Architecture and Ocean Engineering
           company: University of Strathclyde
           company_url: ''
-          company_logo: 
+          company_logo: org-uos 
           location: Glasgow
           date_start: '2012-10-01'
           date_end: '2017-11-07'
@@ -33,7 +33,7 @@ sections:
         - title: BEng (Hons) in Naval Architecture and Marine Engineering (1st Class)
           company: University of Strathclyde
           company_url: ''
-          company_logo: 
+          company_logo: org-uos
           location: Glasgow
           date_start: '2010-10-01'
           date_end: '2012-07-12'
@@ -41,8 +41,8 @@ sections:
         - title: BEng in Naval Architecture and Ocean Engineering
           company: Harbin Engineering University
           company_url: ''
-          company_logo: 
-          location: Glasgow
+          company_logo: org-heu
+          location: Harbin
           date_start: '2008-09-01'
           date_end: '2012-07-25'
           description:
