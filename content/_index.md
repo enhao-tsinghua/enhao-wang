@@ -30,7 +30,7 @@ sections:
           company_logo: org-gc
           location: Shenzhen
           date_start: '2021-06'
-          date_end: ''
+          date_end: 'Present'
         - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
           company: Tianjin University
           company_url: ''
