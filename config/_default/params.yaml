@@ -44,7 +44,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Enhao Wang. This work is licensed under {license}'
+    # notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Enhao Wang'
     license:
      # enable: true
       enable: false
