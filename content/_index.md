@@ -27,7 +27,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: org-tju
+          company_logo: org-x
           location: California
           date_start: '2021-01-01'
           date_end: ''
