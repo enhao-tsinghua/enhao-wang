@@ -61,13 +61,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Assistant Professor of Ocean Engineering
-          company: Shenzhen International Graduate School, Tsinghua University
+          company: Tsinghua University
           company_url: ''
           company_logo: org-thu
-          location: Shenzhen
+          location: Tianjin
           date_start: '2021-06-02'
           date_end: ''
-          description: 
+          description:
         - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
           company: Tianjin University
           company_url: ''
