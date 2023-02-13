@@ -64,10 +64,10 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       address:
-        street: Ocean Centre, Tsinghua Campus, Xili University Town, Nanshan District
-        city: 
+        street: Fluid-Structure Interaction Laboratory
+        city: Ocean Centre, Tsinghua Campus, Xili University Town, Nanshan District
         region: Shenzhen
-        postcode: '518055'
+        postcode: '518055, Guangdong, China'
         country: China
         country_code: CN
     design:
