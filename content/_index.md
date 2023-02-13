@@ -35,7 +35,7 @@ sections:
         - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
           company: Tianjin University
           company_url: ''
-          company_logo: org-x
+          company_logo: org-tju
           location: Tianjin
           date_start: '2018-04-20'
           date_end: '2021-5-31'
