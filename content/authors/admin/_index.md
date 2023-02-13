@@ -10,8 +10,8 @@ first_name: Enhao
 last_name: Wang
 
 # Status emoji
-# status:
-#  icon: ☕️
+ status:
+ icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,15 +39,6 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #  institution: Stanford University
-    #  year: 2012
-    #- course: MEng in Artificial Intelligence
-    #  institution: Massachusetts Institute of Technology
-    #  year: 2009
-    #- course: BSc in Artificial Intelligence
-    #  institution: Massachusetts Institute of Technology
-    #  year: 2008
     - course: PhD in Naval Architecture and Ocean Engineering
       institution: University of Strathclyde
       year: 2017
