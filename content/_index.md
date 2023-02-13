@@ -27,26 +27,26 @@ sections:
         - title: Assistant Professor of Ocean Engineering
           company: Shenzhen International Graduate School, Tsinghua University
           company_url: ''
-          company_logo: org-x
+          company_logo: org-thu
           location: Shenzhen
           date_start: '2021-06-02'
           date_end: ''
           description: 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
+          company: Tianjin University
           company_url: ''
           company_logo: org-tju
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics. 
-        - title: Professor of Semiconductor Physics
-          company: University X
+          location: Tianjin
+          date_start: '2018-04-20'
+          date_end: '2021-05-31'
+          description:
+        - title: Postdoctoral Research Assistant
+          company: University of Glasgow
           company_url: ''
-          company_logo: org-tju
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: org-uog
+          location: Glasgow
+          date_start: '2017-02-01'
+          date_end: '2017-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
