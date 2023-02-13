@@ -77,8 +77,8 @@ sections:
           location: Shenzhen
           date_start: '2021-06'
           date_end: ''
-          # description: |2-
-          #    Responsibilities include:
+#          # description: |2-
+#          #    Responsibilities include:
 
 #          #    * Analysing
 #          #    * Modelling
