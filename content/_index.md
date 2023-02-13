@@ -27,7 +27,7 @@ sections:
         - title: Assistant Professor of Ocean Engineering
           company: Shenzhen International Graduate School, Tsinghua University
           company_url: ''
-          company_logo: org-gc
+          company_logo: 
           location: Shenzhen
           date_start: '2021-06-02'
           date_end: ''
@@ -35,7 +35,7 @@ sections:
         - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
           company: Tianjin University
           company_url: ''
-          company_logo: org-tju
+          company_logo: 
           location: Tianjin
           date_start: '2018-04-20'
           date_end: '2021-5-31'
@@ -43,7 +43,7 @@ sections:
           - title: Postdoctoral Research Assistant
           company: University of Glasgow
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Glasgow
           date_start: '2017-02-01'
           date_end: '2017-12-31'
