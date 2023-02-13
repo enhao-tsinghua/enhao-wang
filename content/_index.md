@@ -80,9 +80,9 @@ sections:
           # description: |2-
           #    Responsibilities include:
 
-          #    * Analysing
-          #    * Modelling
-          #    * Deploying
+#          #    * Analysing
+#          #    * Modelling
+#          #    * Deploying
         - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
           company: Tianjin University
           company_url: ''
@@ -90,7 +90,7 @@ sections:
           location: Tianjin
           date_start: '2018-04'
           date_end: '2021-05'
-          # description: Taught electronic engineering and researched semiconductor physics.
+#          # description: Taught electronic engineering and researched semiconductor physics.
           - title: Postdoctoral Research Assistant
           company: University of Glasgow
           company_url: ''
@@ -98,7 +98,7 @@ sections:
           location: Glasgow
           date_start: '2017-02'
           date_end: '2017-12'
-          # description: Taught electronic engineering and researched semiconductor physics.
+#          # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   #- block: accomplishments
