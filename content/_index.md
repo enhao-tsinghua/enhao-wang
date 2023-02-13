@@ -29,8 +29,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Glasgow
-          date_start: '2012-10'
-          date_end: '2017-11'
+          date_start: '2012-10-01'
+          date_end: '2017-11-07'
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
