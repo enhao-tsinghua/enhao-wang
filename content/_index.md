@@ -14,6 +14,42 @@ sections:
       text:
   - block: experience
     content:
+      title: Education
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD in Naval Architecture and Ocean Engineering
+          company: University of Strathclyde
+          company_url: ''
+          company_logo: 
+          location: Glasgow
+          date_start: '2012-10-01'
+          date_end: '2017-11-07'
+          description: 
+        - title: BEng (Hons) in Naval Architecture and Marine Engineering (1st Class)
+          company: University of Strathclyde
+          company_url: ''
+          company_logo: 
+          location: Glasgow
+          date_start: '2010-10-01'
+          date_end: '2012-07-12'
+          description:
+        - title: BEng in Naval Architecture and Ocean Engineering
+          company: Harbin Engineering University
+          company_url: ''
+          company_logo: 
+          location: Glasgow
+          date_start: '2008-09-01'
+          date_end: '2012-07-25'
+          description:
+    design:
+      columns: '2'
+  - block: experience
+    content:
       title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
