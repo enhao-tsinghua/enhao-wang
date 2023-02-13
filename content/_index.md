@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Professional Experience
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,22 +24,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistant Professor of Ocean Engineering
-          company: Shenzhen International Graduate School, Tsinghua University
+        - title: CEO
+          company: GenCoin
           company_url: ''
-          company_logo: org-x
-          location: Shenzhen
-          date_start: '2021-06-02'
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
-          description:
-        - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
-          company: Tianjin University
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: Tianjin
-          date_start: '2018-04-20'
-          date_end: '2021-5-31'
-          description: 
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
