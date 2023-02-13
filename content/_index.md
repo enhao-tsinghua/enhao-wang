@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -27,16 +27,11 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-tju
           location: California
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
