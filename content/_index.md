@@ -30,20 +30,7 @@ sections:
           company_logo: org-gc
           location: Shenzhen
           date_start: '2021-06'
-        - title: Lecturer of Ocean Engineering/Postdoctoral Research Fellow (On-the-Job)
-          company: Tianjin University
-          company_url: ''
-          company_logo: org-x
-          location: Tianjin
-          date_start: '2018-04'
-          date_end: '2021-05'
-          - title: Postdoctoral Research Assistant
-          company: University of Glasgow
-          company_url: ''
-          company_logo: org-x
-          location: Glasgow
-          date_start: '2017-02'
-          date_end: '2017-12'
+          date_end: ''
     design:
       columns: '2'
 ---
