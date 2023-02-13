@@ -40,14 +40,6 @@ sections:
           date_start: '2018-04-20'
           date_end: '2021-5-31'
           description: 
-          - title: Postdoctoral Research Assistant
-          company: University of Glasgow
-          company_url: ''
-          company_logo: 
-          location: Glasgow
-          date_start: '2017-02-01'
-          date_end: '2017-12-31'
-          description: 
     design:
       columns: '2'
   - block: accomplishments
