@@ -12,6 +12,21 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: education
+    content:
+      title: Education
+      date_format: Jan 2006
+      items:
+        - title: PhD in Naval Architecture and Ocean Engineering
+          company: University of Strathclyde
+          company_url: ''
+          compnay_logo:
+          location: Glasgow
+          date_start: '2012-10-01'
+          date_end: '2017-11-07'
+          description:
+  design:
+    columns: '2'
   - block: experience
     content:
       title: Professional Experience
