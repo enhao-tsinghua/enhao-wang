@@ -64,7 +64,7 @@ sections:
           company: Tsinghua University
           company_url: ''
           company_logo: org-thu
-          location: Tianjin
+          location: Shenzhen
           date_start: '2021-06-02'
           date_end: ''
           description:
